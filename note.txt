@@ -1,0 +1,2 @@
+Je fais le test pour écrire dans le fichier note.txt
+
